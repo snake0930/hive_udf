@@ -1,0 +1,5 @@
+select	
+	*
+from
+	table_name
+limit 100
